@@ -4,4 +4,4 @@ Instructions with description (MKS boards are identical to Kingroon boards):
 
 > Unfortunately, the screen will not let you know if it has been flashed. The progress bar will be stuck at 100% on the screen.  Upon rebooting, you will either see a black screen or a continuous "Booting" message. This is normal.
 
-Please follow to releases page for download 
+Please follow to [Releases page](https://github.com/brvwvde/Kingroon-KP3S-GD32F303-Bootloader/releases) for download 
